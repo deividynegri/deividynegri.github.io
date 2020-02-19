@@ -12,3 +12,5 @@ tags: [Javascript, Software, Isotope.js]
 ### O que é o isotope.js?
 
 
+O objetivo desse post é que juntos nós possamos desenvolver um código capaz de fazer a busca e a filtragem de itens que estejam dentro de um certo *container*. Os eventos de filtro se darão através de *tags* pré definidas para cada item. O campo de busca será atualizado a cada evento de *KeyUp* no teclado do usuário e a busca se dará com base no título dos itens.
+

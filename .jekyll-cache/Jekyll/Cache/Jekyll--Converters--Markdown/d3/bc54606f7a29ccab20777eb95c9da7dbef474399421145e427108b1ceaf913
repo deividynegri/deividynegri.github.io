@@ -1,0 +1,5 @@
+I"�<h3 id="o-que-é-o-isotopejs">O que é o isotope.js?</h3>
+
+<p>O objetivo desse post é que juntos nós possamos desenvolver um código capaz de fazer a busca e a filtragem de itens que estejam dentro de um certo <em>container</em>. Os eventos de filtro se darão através de <em>tags</em> pré definidas para cada item. O campo de busca será atualizado a cada evento de <em>KeyUp</em> no teclado do usuário e a busca se dará com base no título dos itens.</p>
+
+:ET
